@@ -8,7 +8,7 @@
 [![Responsive](https://img.shields.io/badge/Design-Responsive-success)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🔗 **[Live Demo](https://your-shopify-clone-demo.netlify.app/)** • 📚 **[Documentation](#documentation)** • 🐛 **[Report Bug](https://github.com/jatinagrahari/shopify-clone/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/shopify-clone)**
+🔗 **[Live Demo](https://clone-shopif.netlify.app/)** • 📚 **[Documentation](#documentation)** • 🐛 **[Report Bug](https://github.com/jatinagrahari/shopify-clone/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/shopify-clone)**
 
 ---
 
